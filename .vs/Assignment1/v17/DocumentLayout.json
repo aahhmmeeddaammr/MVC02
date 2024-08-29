@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment1\\assignment1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment1\\assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB3C023-D80E-4180-B3BD-2884271FFABA}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment1",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Assignment1.csproj",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.csproj",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Assignment1.csproj",
+              "RelativeToolTip": "Assignment1\\Assignment1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T16:15:48.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Assignment1\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:07:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:31:32.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
